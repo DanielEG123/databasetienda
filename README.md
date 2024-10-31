@@ -1,2 +1,2 @@
-# databasetienda
+# databasecolegio
 tienda databvase
